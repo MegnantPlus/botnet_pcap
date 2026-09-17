@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+pdf_rules_extracted.txt
+.vscode/
+.idea/
