@@ -6,3 +6,4 @@ __pycache__/
 pdf_rules_extracted.txt
 .vscode/
 .idea/
+_local_slides_and_reports/

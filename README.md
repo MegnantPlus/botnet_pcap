@@ -14,7 +14,7 @@
 | 2 | **Nguyễn Duy Hùng** | `0368369` | Xử lý dữ liệu & Huấn luyện mô hình |
 | 3 | **Lê Quang Huy** | `0368469` | Đánh giá chỉ số & Trực quan hóa dữ liệu |
 | 4 | **Ngô Xuân Trung** | `0373569` | Nghiên cứu đặc trưng mạng & Feature Selection |
-| 5 | **Bùi Đức Thắng** | `0373069` | Thiết kế Slide trình chiếu & Demo thời gian thực |
+| 5 | **Bùi Đức Thắng** | `0373069` | Thiết kế kịch bản thử nghiệm & Demo thời gian thực |
 
 ---
 
@@ -39,7 +39,7 @@ Thử nghiệm độc lập trên **18,443 luồng kiểm thử (Test set)**:
 
 ---
 
-## 📂 Cấu trúc thư mục dự án
+## 📂 Cấu trúc thư mục repository
 ```text
 ├── CTU13_Attack_Traffic.csv          # Tập dữ liệu lưu lượng Botnet (38,898 flows)
 ├── CTU13_Normal_Traffic.csv          # Tập dữ liệu lưu lượng bình thường (53,314 flows)
@@ -54,10 +54,7 @@ Thử nghiệm độc lập trên **18,443 luồng kiểm thử (Test set)**:
 │   ├── 2_confusion_matrix_rf.png
 │   ├── 3_roc_curves.png
 │   └── 4_feature_importance_rf.png
-├── bao_cao_huce.tex                  # Báo cáo chuẩn quy định ĐH Xây dựng (LaTeX)
-├── presentation.tex                  # Slide báo cáo chuẩn HUCE Beamer (LaTeX)
-├── BAO_CAO_BAI_TAP_LON.md            # Báo cáo chi tiết dạng Markdown
-└── HUCE_Full_Bao_Cao_Va_Slide.zip    # Trọn gói nén nộp bài / biên dịch Overleaf
+└── README.md                         # Tài liệu hướng dẫn dự án
 ```
 
 ---
